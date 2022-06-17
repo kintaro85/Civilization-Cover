@@ -9,7 +9,9 @@ being kept and comment sections still missing
 
 I have implemented a "world" containing 18 "land" objects, each containg 25 "blocks" objects.
 
-New folder contains images and sounds i have used to play around.
+"New folder" contains images and sounds i have used to play around.
+
+"Game" folder contains the classes, and the main file to run.
 
 I tried to implement features of the original game: 
 
